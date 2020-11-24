@@ -1,6 +1,6 @@
-# Word Dictionary
+# Words Dictionary
 
-This project implements a linked list and binary trees to build a word dictionary with synonyms
+This project implements a linked list and binary trees to build a words dictionary with synonyms
 
 ## ☁️ Links
 
