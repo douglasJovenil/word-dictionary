@@ -22,8 +22,6 @@ This project implements a linked list and binary trees to build a words dictiona
 
 ## 🏃 Usage
 
-Before you start the server theres some commands that you have to run, just copy and paste one by one the commands bellow:
-
 ```
 git clone https://github.com/douglasJovenil/word-dictionary
 cd word-dictionary/src
